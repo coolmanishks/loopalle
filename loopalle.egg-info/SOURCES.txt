@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+loopalle.egg-info/PKG-INFO
+loopalle.egg-info/SOURCES.txt
+loopalle.egg-info/dependency_links.txt
+loopalle.egg-info/requires.txt
+loopalle.egg-info/top_level.txt
